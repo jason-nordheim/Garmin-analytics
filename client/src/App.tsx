@@ -1,5 +1,11 @@
+import { UploadGarminData } from "./components";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <UploadGarminData />
+    </>
+  );
 }
 
 export default App;
